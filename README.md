@@ -163,8 +163,3 @@ ASN: Hydra Communications Ltd
 
 ---
 
-## Certifications
-
-- CompTIA Security+
-- TryHackMe SOC Level 1
-- Google Cybersecurity Professional Certificate
